@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+scikit-learn
+tensorflow
+yahoo_fin
+requests_html
+fake_useragent
+nltk
+plotly
+google-generativeai
